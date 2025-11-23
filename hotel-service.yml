@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: hotel-service
+server:
+  port: 0
+grpc:
+  port: 9091
